@@ -20,14 +20,8 @@ body{
     font-weight: bold;
 }
 .btn-custom{
-    background-color:#1e88e5;
-    color:#fff;
-}
-.backgroundGreen{
-    background-color:#39a90d;
-}
-.backgroundRed{
-    background-color:red;
+    background-color:#d2b410;
+    color:#000000;
 }
 
 .noShow{
@@ -43,9 +37,9 @@ body{
 }
 h1{
     font-size: 80px;
-    color: #f4511e;
+    color: #ffffff;
     font-weight: bold;
-    font-family: cursive;
+    font-family: fantasy;
     margin-bottom:110px;
 }
 h5{
@@ -63,19 +57,16 @@ h6{
     border-radius: 50%;
     width:200px;
     height: 200px;
-    background-color: #5cb85c;
+    background-color: #d2b410;
     color:#fff;
-    font-size:40px;
+    font-size:40px; 
 }
 .wrongScore{
     margin:0 auto;
     border-radius: 50%;
     width:200px;
     height: 200px;
-    background-color: #f44336;
+    background-color: #d2b410;
     color:#fff;
     font-size: 40px;
 }
-/*#finalScore button{
-    margin-bottom: 30px;
-}*/
